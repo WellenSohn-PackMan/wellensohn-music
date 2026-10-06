@@ -1,9 +1,10 @@
-# Website analytics — prepared, not active
+# Website analytics — GoatCounter
 
-Provider: GoatCounter. No account, site code, or measurement has been provisioned yet.
-Do not merge this branch until the owner confirms their account and site code.
+Provider: GoatCounter. Owner confirmed https://wellensohn-music.goatcounter.com/ on 2026-10-06.
+The production site code is `wellensohn-music`. No password or API token is included.
+Account settings behind login (dashboard visibility, allowed domains and collection options) have not been inspected; use the checklist below to verify them.
 
-## Activate
+## Setup checklist / future maintenance
 
 1. Owner manually signs up at https://www.goatcounter.com/signup (required by provider terms).
 2. Suggested account name: `wellensohn-music`, if available. Site domain: `wellensohn-packman.github.io`.

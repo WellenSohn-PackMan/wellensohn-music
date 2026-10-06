@@ -1,8 +1,8 @@
 'use strict';
 (() => {
-  // Set only after the owner has created and confirmed their GoatCounter site.
+  // Owner confirmed this GoatCounter account on 2026-10-06.
   // This is a public site identifier, never an API key or password.
-  const siteCode = '';
+  const siteCode = 'wellensohn-music';
   if (!/^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?$/.test(siteCode)) return;
   if (location.hostname !== 'wellensohn-packman.github.io' ||
       !location.pathname.startsWith('/wellensohn-music/')) return;
