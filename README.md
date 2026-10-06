@@ -63,3 +63,9 @@ Weitere Artworks: pro Beitrag ein eigenes öffentliches Issue anlegen; dessen Nu
 ## Warum ich Wellen mag (06.10.2026)
 
 Zweiter Artwork-Beitrag unter `artworks/warum-ich-wellen-mag.html`, mit freigegebenem Text, goldener Doppelhelix im vollständigen Querformat und direktem SoundCloud-Link zu `sound-to-my-heart-a-stern`. In der Galerie zuerst gelistet. Responsive WebP-Bilder mit 1672 und 720 Pixel Breite; eigener Kommentarbereich über Issue #4. Die Teilen-Funktion verwendet den jeweiligen Seitentitel. RSS-Feed auf 23 Einträge aktualisiert.
+
+## Öffentlicher Fußzeilenzähler (06.10.2026)
+
+`visitor-counter.js` liest den Gesamtwert von `https://wellensohn-music.goatcounter.com/counter/TOTAL.json` und zeigt ihn auf allen fünf Seiten als „123 Wellensöhne“ (Singular: „1 Wellensohn“). Das sind gezählte Seitenbesuche, keine eindeutig verschiedenen Menschen. Der Tooltip erklärt die Zahl. GoatCounter kann den Wert bis zu vier Stunden zwischenspeichern.
+
+Bei Einrichtung war die Ausgabe mit HTTP 403 gesperrt: Im angemeldeten GoatCounter-Konto unter Settings die Option „Allow adding visitor counts on your website“ aktivieren. Das gesamte Dashboard muss dafür nicht öffentlich werden. Bis dahin und bei Netzwerkfehlern bleibt die Anzeige verborgen; es gibt keine erfundene Ersatz-Zahl. Der Lesezugriff sendet keine Cookies, Zugangsdaten oder Herkunfts-URL und respektiert die vorhandenen Browser-Datenschutzsignale. Neue HTML-Seiten müssen auch diesen gemeinsamen Loader und die Zählerzeile einbinden.

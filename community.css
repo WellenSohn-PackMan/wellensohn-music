@@ -44,3 +44,9 @@ body:has(.music-section) main>.stay-connected{margin:0 auto;padding:50px var(--p
 @media(max-width:620px){.header nav{gap:0 20px}.about-main{padding-top:35px;padding-bottom:45px}.about-intro h1{font-size:45px;letter-spacing:-.05em}.about-lead{font-size:18px}.bio-copy{margin:40px 0;font-size:17px}.bio-copy h2{font-size:32px}.connection-grid,.related-grid,.about-preview,.home-artwork{grid-template-columns:1fr}.connection-card{padding:24px}.connection-section{padding:35px 0}.connection-links .button{gap:12px}.stay-connected{margin-top:45px}.about-preview,.home-artwork{gap:25px;padding-top:40px;padding-bottom:40px}.home-artwork img{max-width:100%}.comments-section,.related-section{margin-top:45px;padding-top:32px}.related-card{grid-template-columns:85px 1fr}.footer-links{width:100%}.comment-actions{gap:20px}.connection-note{font-size:13px}}
 
 @media(min-width:1050px){.follow-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* A small site-wide visitor count beneath the footer links. */
+footer .visitor-counter { flex:0 0 100%; width:100%; order:10; margin:8px 0 0; text-align:center; font-size:12px; line-height:1.6; color:var(--muted); letter-spacing:.03em; }
+footer .visitor-counter[hidden] { display:none; }
+.visitor-counter [data-visitor-total] { color:#e8c77e; font-variant-numeric:tabular-nums; }
+.visitor-counter-wave { color:#e8c77e; margin-right:5px; }
