@@ -5,8 +5,16 @@
     <link>https://wellensohn-packman.github.io/wellensohn-music/</link>
     <description>Neue Musik, Bilder und Gedanken auf der WellenSohn-Website.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wellensohn-packman.github.io/wellensohn-music/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warum ich Wellen mag</title>
+      <link>https://wellensohn-packman.github.io/wellensohn-music/artworks/warum-ich-wellen-mag.html</link>
+      <description>Von der Doppelhelix zum Meer, von einem Gedanken zur Musik: Warum mich Wellen faszinieren und was Weitergeben für WellenSohn bedeutet.</description>
+      <category>Artwork</category>
+      <guid isPermaLink="true">https://wellensohn-packman.github.io/wellensohn-music/artworks/warum-ich-wellen-mag.html</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Was weiterklingt</title>
       <link>https://wellensohn-packman.github.io/wellensohn-music/artworks/was-weiterklingt.html</link>

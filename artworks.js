@@ -11,7 +11,7 @@
     fallback.hidden = true;
     try {
       if (navigator.share) {
-        await navigator.share({ title: 'Was weiterklingt · WellenSohn', url });
+        await navigator.share({ title: document.title, url });
         return;
       }
       if (!navigator.clipboard) throw new Error('Clipboard unavailable');

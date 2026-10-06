@@ -42,3 +42,11 @@
   .header nav { width:100%; flex-wrap:wrap; gap:4px 22px; font-size:13px; }
   .header nav a:last-child { display:none; }
 }
+
+/* Gold artwork and spacing between gallery entries. */
+.artwork-feature + .artwork-feature { margin-top:64px; }
+.artwork-track { max-width:640px; margin:34px auto 0; padding:28px 0; border-top:1px solid var(--line); }
+.artwork-track > p:not(.eyebrow) { color:var(--muted); line-height:1.6; margin:16px 0 22px; }
+.artwork-gold { background:#e8c77e; color:#17140f; border:1px solid #e8c77e; max-width:100%; white-space:normal; text-align:center; }
+.artwork-gold:hover { background:#f5dcaa; color:#17140f; }
+@media(max-width:760px) { .artwork-feature + .artwork-feature { margin-top:42px; } }
