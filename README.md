@@ -40,7 +40,7 @@ Die neuen Texte sind kreative Deutungen von Cover, Titel und vorhandenen Beschre
 
 JavaScript-Syntax, Trackanzahl, eindeutige IDs und Links, vorhandene Bilddateien, lesbare Bildformate und lokale HTML-Referenzen wurden geprüft. Die veröffentlichte Website wurde am 02.10.2026 im Desktop-Browser geprüft: Darstellung, Suche, Jahresfilter, Track-Dialoge, Trackwechsel und Schließen per Escape funktionieren. Der SoundCloud-Player lädt den ausgewählten Track. Audioausgabe und Bedienung auf einem echten Mobilgerät wurden nicht geprüft. GitHub Pages hat die Bereitstellung erfolgreich abgeschlossen.
 
-Externe Verbindung im Besucherbrowser: SoundCloud erst nach aktivem Laden eines Players oder Öffnen eines SoundCloud-Links. Die Cover liegen lokal. Keine Analyse- oder Tracking-Skripte werden von der Website selbst eingebaut.
+Externe Verbindungen im Besucherbrowser: SoundCloud erst nach aktivem Laden eines Players oder Öffnen eines SoundCloud-Links. Die Cover liegen lokal. Die Besucherstatistik lädt auf allen fünf Seiten GoatCounter, sofern Do Not Track und Global Privacy Control nicht aktiviert sind. Dashboard: https://wellensohn-music.goatcounter.com/. Technische Details und Prüfstatus siehe `tools/ANALYTICS_SETUP.md`. Ein Besucherhinweis ist unter `ueber.html#besucherstatistik` verlinkt.
 
 ## Artworks (03.10.2026)
 
