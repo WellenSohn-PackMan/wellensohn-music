@@ -1,5 +1,27 @@
 window.WELLENSOHN_TRACKS = [
   {
+    "title": "Memory Sky",
+    "permalink": "memory-sky",
+    "id": 2400106557,
+    "artwork_url": "https://i1.sndcdn.com/artworks-FLRvsLIm5NqI2ZCd-BOyqTw-large.jpg",
+    "description": "Memory Sky\n\nDeep Techno zwischen Reduktion, Raum und massivem Low-End.\n\nEine einfache Melodie bleibt im Kopf.\nDann übernimmt der Bass.\n\nWenig Elemente. Viel Tiefe.\nKein großes Spektakel – nur Bewegung, Druck und Raum.",
+    "genre": "Techno",
+    "tag_list": "",
+    "display_date": "2026-10-07T04:00:06Z",
+    "duration": 383686,
+    "permalink_url": "https://soundcloud.com/pack-man-405653013/memory-sky",
+    "artist": "PackMan",
+    "teaser": "Eine Melodie im Kopf. Tiefe unter den Füßen.",
+    "story": "Ein helles Sternenband zieht sich durch den dunklen Himmel. Kühle Blautöne treffen auf warmes Licht, dazwischen bleibt viel dunkler Raum. Memory Sky nimmt diese Weite im Titel auf. Die Originalbeschreibung setzt dazu einen klaren musikalischen Schwerpunkt: eine einfache Melodie, wenige Elemente und ein massives Low-End. So stehen das offene Himmelsbild und der beschriebene Bassdruck nebeneinander – reduziert, direkt und mit Platz für die Melodie, die im Kopf bleibt.",
+    "alt": "Dunkler Sternenhimmel mit einem diagonal verlaufenden blau-goldenen Milchstraßenband und dem Schriftzug Memory Sky.",
+    "artwork": "assets/memory-sky.jpg",
+    "date": "2026-10-07",
+    "story_basis": "Titel und Cover sowie Originalbeschreibung und Genre; Künstlerangabe vom Nutzer",
+    "tags": [
+      "Deep Techno"
+    ]
+  },
+  {
     "title": "Schmetterling",
     "permalink": "schmetterling",
     "id": 2399663541,

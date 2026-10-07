@@ -5,8 +5,16 @@
     <link>https://wellensohn-packman.github.io/wellensohn-music/</link>
     <description>Neue Musik, Bilder und Gedanken auf der WellenSohn-Website.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wellensohn-packman.github.io/wellensohn-music/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memory Sky</title>
+      <link>https://wellensohn-packman.github.io/wellensohn-music/index.html#track-memory-sky</link>
+      <description>Eine Melodie im Kopf. Tiefe unter den Füßen.</description>
+      <category>Musik</category>
+      <guid isPermaLink="true">https://wellensohn-packman.github.io/wellensohn-music/index.html#track-memory-sky</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Warum ich Wellen mag</title>
       <link>https://wellensohn-packman.github.io/wellensohn-music/artworks/warum-ich-wellen-mag.html</link>
