@@ -1,8 +1,16 @@
 {
   "retrieved_at": "2026-10-01",
   "profile": "https://soundcloud.com/pack-man-405653013",
-  "public_track_count": 22,
+  "public_track_count": 23,
   "tracks": [
+    {
+      "title": "Der grüne Planet",
+      "permalink_url": "https://soundcloud.com/pack-man-405653013/wellensohn-der-gr-ne-planet",
+      "artwork_url": "https://i1.sndcdn.com/artworks-6Y8LN30JpLGpD1tm-EdzcyQ-large.jpg",
+      "date": "2026-10-21",
+      "story_basis": "Titel und Cover sowie Originalbeschreibung; Künstlerangabe aus SoundCloud-Metadaten",
+      "retrieved_at": "2026-10-23"
+    },
     {
       "title": "Memory Sky",
       "permalink_url": "https://soundcloud.com/pack-man-405653013/memory-sky",
@@ -159,5 +167,5 @@
       "story_basis": "Titel und Cover und Genre/Tags"
     }
   ],
-  "last_updated": "2026-10-07"
+  "last_updated": "2026-10-23"
 }

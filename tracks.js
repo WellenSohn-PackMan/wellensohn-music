@@ -1,5 +1,28 @@
 window.WELLENSOHN_TRACKS = [
   {
+    "title": "Der grüne Planet",
+    "permalink": "wellensohn-der-gr-ne-planet",
+    "id": 2420816601,
+    "artwork_url": "https://i1.sndcdn.com/artworks-6Y8LN30JpLGpD1tm-EdzcyQ-large.jpg",
+    "description": "„Der grüne Planet“ ist ein Stück über WellenSohn – nicht als Erklärung, sondern als Gefühl.\n\nZwischen Technik und Natur, Code und Chlorophyll, Struktur und Freiheit entsteht etwas Eigenes. Ein Track über Entwicklung, Neugier, Empathie und darüber, nicht nur zu funktionieren.\n\nEin Teil der Idee entstand aus einem realen Moment im Treptower Park: eine Tierstatue, entdeckt beim Vorbeigehen und später digital weitergedacht.\n\nMusikalisch verbindet der Track elektronische Atmosphäre, Sprachgesang und melodische Passagen zu einem ruhigen, aber motivierenden WellenSohn-Moment.\n\nArtwork: WellenSohn\nMusic: WellenSohn / PackMan\n\n#WellenSohn",
+    "genre": "",
+    "tag_list": "",
+    "display_date": "2026-10-21T04:00:18Z",
+    "duration": 219406,
+    "permalink_url": "https://soundcloud.com/pack-man-405653013/wellensohn-der-gr-ne-planet",
+    "artist": "WellenSohn",
+    "teaser": "Zwischen Code und Chlorophyll.",
+    "story": "Eine metallische Raubkatze sitzt auf einem steinernen Sockel, durchzogen von blauem Licht und umrankt von Efeu. Dahinter liegen Wasser, Bäume und ein warmer Abendhimmel. Technik und Natur teilen sich hier denselben Platz. Die Originalbeschreibung führt das Motiv auf eine Tierstatue im Treptower Park zurück, die später digital weitergedacht wurde. Der grüne Planet greift dieses Nebeneinander auf: Struktur und Freiheit, Neugier und Entwicklung. Elektronische Atmosphäre, Sprachgesang und melodische Passagen bilden laut Beschreibung den musikalischen Rahmen – für einen Gedanken daran, mehr zu sein als das, was einfach nur funktioniert.",
+    "alt": "Metallische Raubkatze mit blau leuchtenden Details und Efeu auf einem Steinsockel vor Wasser, Bäumen und einem Denkmal im Abendlicht. Schriftzug WellenSohn – Der grüne Planet.",
+    "artwork": "assets/der-gruene-planet.jpg",
+    "date": "2026-10-21",
+    "story_basis": "Titel und Cover sowie Originalbeschreibung; Künstlerangabe aus SoundCloud-Metadaten",
+    "tags": [
+      "Elektronisch",
+      "Sprachgesang"
+    ]
+  },
+  {
     "title": "Memory Sky",
     "permalink": "memory-sky",
     "id": 2400106557,

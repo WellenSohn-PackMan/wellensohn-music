@@ -4,7 +4,7 @@ Fertige statische Website für GitHub Pages. Keine Installation, kein Build, kei
 
 ## Inhalt
 
-- 22 öffentlich auf dem angegebenen SoundCloud-Profil gelistete Tracks (zuletzt ergänzt am 07.10.2026).
+- 23 öffentlich auf dem angegebenen SoundCloud-Profil gelistete Tracks (zuletzt ergänzt am 23.10.2026).
 - Heruntergeladene Original-Artworks, eigene deutsche Begleittexte, Originalbeschreibungen und SoundCloud-Links.
 - Cover-Kacheln, Track-Dialoge mit Artwork im Hintergrund, Jahresfilter und Suche.
 - SoundCloud-Player werden erst nach dem Klick auf „Auf dieser Seite anhören“ eingebunden. Audio startet nicht automatisch.
@@ -30,7 +30,7 @@ Relative Assetpfade unterstützen sowohl Benutzerseiten als auch Projektseiten u
 
 ## Inhalte ändern
 
-`tracks.js` enthält die 22 Einträge mit Titel, Künstlerangabe, Datum, Coverpfad, Originalbeschreibung, Begleittext und Quelllink. Der Datenbestand ist ein statischer Stand und aktualisiert sich nicht automatisch. Bei Ergänzungen auch die Gesamtzahl und den hervorgehobenen Track im HTML aktualisieren.
+`tracks.js` enthält die 23 Einträge mit Titel, Künstlerangabe, Datum, Coverpfad, Originalbeschreibung, Begleittext und Quelllink. Der Datenbestand ist ein statischer Stand und aktualisiert sich nicht automatisch. Bei Ergänzungen auch die Gesamtzahl und den hervorgehobenen Track im HTML aktualisieren.
 
 Die Künstlerangaben stammen aus Beschreibungen, Titeln oder Cover-Aufschriften. Bei nicht gesondert bezeichneten Titeln wird der Profilname WellenSohn verwendet. „Matin Books – Berghain Stalker“ bleibt mit der Künstlerangabe Matin Books im Archiv und wird nicht als WellenSohn-Eigenkomposition bezeichnet. Quellen und Textgrundlage stehen in `sources.json`.
 
@@ -52,7 +52,7 @@ Weitere Beiträge als eigene HTML-Seite unter `artworks/` ergänzen und in der G
 
 `ueber.html`: Künstler-Vorstellung, Kontakt über das bestätigte SoundCloud-Profil und Folgen via SoundCloud/RSS. Keine private E-Mail oder unbestätigte Social-Media-Adresse wird veröffentlicht. Threads-Profil am 03.10.2026 vom Nutzer bestätigt: https://www.threads.com/@pack.man. Verlinkt bei Folgen, Kontakt, im Artwork-Kommentarbereich und in allen Fußzeilen. Profil-Links führen nicht zu einem bestimmten Threads-Beitrag; Kommentare werden nicht mit Threads synchronisiert.
 
-`feed.xml` enthält 24 Einträge (22 Tracks und zwei Artworks). Nach Änderungen an `tracks.js` oder neuen HTML-Beiträgen in `artworks/` den Feed mit `python3 tools/build-feed.py` neu erzeugen und veröffentlichen. Keine automatische SoundCloud-Synchronisation.
+`feed.xml` enthält 25 Einträge (23 Tracks und zwei Artworks). Nach Änderungen an `tracks.js` oder neuen HTML-Beiträgen in `artworks/` den Feed mit `python3 tools/build-feed.py` neu erzeugen und veröffentlichen. Keine automatische SoundCloud-Synchronisation.
 
 Kommentare zu `Was weiterklingt`: Utterances, fest mit Issue #1 verbunden. Lesen und Schreiben im eingebetteten Bereich unter dem Artwork; zum Schreiben ist eine GitHub-Anmeldung und Zustimmung zu Utterances erforderlich. Kein anonymer Gastmodus. Der Dienst wird erst nach Klick geladen, nach einer vom Besucher begonnenen Anmeldung auch beim OAuth-Rücksprung. Dunkles, responsives Widget; Fehlerhinweis, erneutes Laden und direkter GitHub-Link als Fallback. Moderation im GitHub-Repository, keine automatische Vorabfreigabe. `utterances.json` beschränkt die zulässige Website-Herkunft.
 
@@ -73,3 +73,7 @@ Bei Einrichtung war die Ausgabe mit HTTP 403 gesperrt: Im angemeldeten GoatCount
 ## Memory Sky (07.10.2026)
 
 Neue Veröffentlichung als erster Archiveintrag und hervorgehobener Track auf der Startseite. Originalcover lokal unter `assets/memory-sky.jpg`, vollständige SoundCloud-Beschreibung, eigener Begleittext im bestehenden Stil und direkter Tracklink. Titel, Veröffentlichungszeit, Laufzeit und Cover stammen von der öffentlichen SoundCloud-Trackseite; die Künstlerangabe PackMan folgt dem Nutzerauftrag. RSS-Feed auf 24 Einträge aktualisiert.
+
+## Der grüne Planet (23.10.2026)
+
+Am 21.10.2026 veröffentlichter Track als erster Archiveintrag und aktuelle Veröffentlichung auf der Startseite ergänzt. Originalcover lokal unter `assets/der-gruene-planet.jpg`, vollständige Originalbeschreibung, eigener Begleittext, vorhandener SoundCloud-Player und Direktlink. Die Künstlerangabe WellenSohn stammt aus den SoundCloud-Metadaten; die vollständigen Musik-Credits WellenSohn / PackMan bleiben in der Originalbeschreibung erhalten. RSS-Feed auf 25 Einträge aktualisiert.
