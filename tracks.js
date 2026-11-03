@@ -1,5 +1,29 @@
 window.WELLENSOHN_TRACKS = [
   {
+    "title": "AKT",
+    "permalink": "akt",
+    "id": 2420871630,
+    "artwork_url": "https://i1.sndcdn.com/artworks-syJCaphK1ZDDOnga-yPKM3g-large.jpg",
+    "description": "„AKT“ ist ein mechanischer Techno-Track über Bewegung, Struktur und Zustandswechsel.\n\nTrocken, präzise und reduziert.\nKeine Vocals.\nKein klassischer Basslauf.\nStattdessen Impulse, Resonanzen, Filterbewegungen und ein Rhythmus, der wie ein Uhrwerk arbeitet.\n\nEin System verändert seinen Zustand.\nPhase.\nTrennung.\nBewegung.\nReinkarnation.\nFade.\n\nDeep Mechanical Techno · 132 BPM\n\nPackMan",
+    "genre": "",
+    "tag_list": "",
+    "display_date": "2026-10-28T05:00:09Z",
+    "duration": 341846,
+    "permalink_url": "https://soundcloud.com/pack-man-405653013/akt",
+    "artist": "PackMan",
+    "teaser": "Präzise Impulse. Mechanische Bewegung.",
+    "story": "Dunkle Metallblöcke und helle Ringe stehen entlang einer leuchtenden Achse. Der symmetrische Raum, der Dunst und die Spiegelungen auf dem Boden geben dem Cover eine kühle, industrielle Atmosphäre. Dazu passt die Beschreibung von AKT: reduzierter Deep Mechanical Techno mit 132 BPM, aufgebaut aus Impulsen, Resonanzen und Filterbewegungen. Die benannten Phasen reichen von Trennung und Bewegung bis zum Fade. Das Motiv hält die einzelnen Bauteile sichtbar auseinander und richtet den Blick auf ihre Anordnung – auf Präzision, Rhythmus und den Wechsel von einem Zustand zum nächsten.",
+    "alt": "Dunkle Metallblöcke und leuchtende Ringe entlang einer hellen Achse in einer industriellen Halle mit spiegelndem Boden. Schriftzug AKT und PackMan.",
+    "artwork": "assets/akt.jpg",
+    "date": "2026-10-28",
+    "story_basis": "Titel und Cover sowie Originalbeschreibung; Künstlerangabe aus SoundCloud-Metadaten",
+    "tags": [
+      "Deep Mechanical Techno",
+      "132 BPM",
+      "Instrumental"
+    ]
+  },
+  {
     "title": "Der grüne Planet",
     "permalink": "wellensohn-der-gr-ne-planet",
     "id": 2420816601,
